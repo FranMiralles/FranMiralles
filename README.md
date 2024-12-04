@@ -1,7 +1,7 @@
 <div>
   <div align="center" style="background-color:#011120"">
     <p>&gt;: Hello, FRANCISCO MIRALLES FERRER here!</p>
-    <img width="300px" src="./Engranaje.gif">
+    <img width="250px" src="./Engranaje.gif">
   </div>
   <hr>
   <p>·My social networks where I explain projects hosted in this repository:</p>
