@@ -1,6 +1,6 @@
 <div>
   <div align="center" style="background-color:#011120"">
-    <p>&gt; Hello, FRANCISCO MIRALLES FERRER here!</p>
+    <h3>&gt; Hello, FRANCISCO MIRALLES FERRER here!</h3>
     <img width="200px" src="./Engranaje.gif">
   </div>
   <hr>
