@@ -4,12 +4,10 @@
 
 <br>
 
-<img align="right" width="300" src="./Engranaje.gif" alt="Gears turning">
-
 ### `> cat about_me.txt`
 
 - Computer Engineer with a **Master's degree in Artificial Intelligence** from the **Universitat Politècnica de València**.
-- Researcher at the **PROS-VRAIN** research group.
+- Researcher at the **PROS-VRAIN** group.
 
 ### `> ls ~/social`
 
