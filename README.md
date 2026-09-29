@@ -1,14 +1,21 @@
-<div>
-  <div align="center" style="background-color:#011120"">
-    <h3>&gt; Hello, FRANCISCO MIRALLES FERRER here!</h3>
-    <img width="300px" src="./Engranaje.gif">
-  </div>
-  <hr>
-  <p>·My social networks where I explain projects hosted in this repository:</p>
-  <a href="https://www.youtube.com/@FMirallesF" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" height="35px">
-  </a>
-  <a href="https://franmiralles.itch.io" target="_blank" style="margin-left: 10px;">
-    <img src="https://static.wikia.nocookie.net/logopedia/images/0/01/Itch_io.svg" alt="Itch.io" height="35px">
-  </a>
+<div align="center">
+  <img src="./matrix-banner.svg" width="100%" alt="FRAN MIRALLES — Computer Engineer · MSc Artificial Intelligence — Researcher @ PROS-VRAIN · Universitat Politècnica de València">
 </div>
+
+<br>
+
+<img align="right" width="300" src="./Engranaje.gif" alt="Gears turning">
+
+### `> cat about_me.txt`
+
+- Computer Engineer with a **Master's degree in Artificial Intelligence** from the **Universitat Politècnica de València**.
+- Researcher at the **PROS-VRAIN** research group.
+
+### `> ls ~/social`
+
+My social networks, where I explain the projects hosted in my repositories:
+
+<a href="https://www.youtube.com/@FMirallesF" target="_blank"><img src="https://img.shields.io/badge/YouTube-%40FMirallesF-003b1a?style=for-the-badge&logo=youtube&logoColor=00ff66&labelColor=000000" alt="YouTube @FMirallesF"></a>
+<a href="https://franmiralles.itch.io" target="_blank"><img src="https://img.shields.io/badge/itch.io-franmiralles-003b1a?style=for-the-badge&logo=itchdotio&logoColor=00ff66&labelColor=000000" alt="itch.io franmiralles"></a>
+
+<br clear="right">
