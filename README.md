@@ -11,8 +11,9 @@
 
 ### `> ls ~/social`
 
-My social networks, where I explain the projects hosted in my repositories:
+My social networks, where I explain the **projects** hosted in my repositories and my **research publications**:
 
+<a href="https://orcid.org/0009-0000-4058-4483" target="_blank"><img src="https://img.shields.io/badge/orcid-publications-003b1a?style=for-the-badge&logo=orcid&logoColor=00ff66&labelColor=000000" alt="0009-0000-4058-4483 @FMirallesF"></a>
 <a href="https://www.youtube.com/@FMirallesF" target="_blank"><img src="https://img.shields.io/badge/YouTube-%40FMirallesF-003b1a?style=for-the-badge&logo=youtube&logoColor=00ff66&labelColor=000000" alt="YouTube @FMirallesF"></a>
 <a href="https://franmiralles.itch.io" target="_blank"><img src="https://img.shields.io/badge/itch.io-franmiralles-003b1a?style=for-the-badge&logo=itchdotio&logoColor=00ff66&labelColor=000000" alt="itch.io franmiralles"></a>
 
