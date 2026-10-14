@@ -17,7 +17,7 @@ My social networks, where I explain the **projects** hosted in my repositories a
   <tr>
     <td align="center" width="50%">
       <a href="https://www.linkedin.com/in/fran-miralles-295583383" target="_blank">
-        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge" alt="LinkedIn Fran Miralles" width="220">
+        <img src="https://img.shields.io/badge/LinkedIn-Fran_Miralles-003b1a?style=for-the-badge&logo=linkedin&logoColor=00ff66&labelColor=000000" alt="LinkedIn Fran Miralles" width="220">
       </a>
     </td>
     <td align="center" width="50%">
