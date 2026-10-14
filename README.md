@@ -13,7 +13,7 @@
 
 My social networks, where I explain the **projects** hosted in my repositories and my **research publications**:
 
- <table>
+ <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="50%">
       <a href="https://www.linkedin.com/in/fran-miralles-295583383" target="_blank">
