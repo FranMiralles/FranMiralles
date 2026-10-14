@@ -13,9 +13,31 @@
 
 My social networks, where I explain the **projects** hosted in my repositories and my **research publications**:
 
-<a href="https://www.linkedin.com/in/fran-miralles-295583383" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Fran_Miralles-003b1a?style=for-the-badge&logo=linkedin&logoColor=00ff66&labelColor=000000" alt="LinkedIn Fran Miralles"></a>\
-<a href="https://orcid.org/0009-0000-4058-4483" target="_blank"><img src="https://img.shields.io/badge/orcid-publications-003b1a?style=for-the-badge&logo=orcid&logoColor=00ff66&labelColor=000000" alt="0009-0000-4058-4483 @FMirallesF"></a>
-<a href="https://www.youtube.com/@FMirallesF" target="_blank"><img src="https://img.shields.io/badge/YouTube-%40FMirallesF-003b1a?style=for-the-badge&logo=youtube&logoColor=00ff66&labelColor=000000" alt="YouTube @FMirallesF"></a>
-<a href="https://franmiralles.itch.io" target="_blank"><img src="https://img.shields.io/badge/itch.io-franmiralles-003b1a?style=for-the-badge&logo=itchdotio&logoColor=00ff66&labelColor=000000" alt="itch.io franmiralles"></a>
+ <table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.linkedin.com/in/fran-miralles-295583383" target="_blank">
+        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge" alt="LinkedIn Fran Miralles" width="220">
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://orcid.org/0009-0000-4058-4483" target="_blank">
+        <img src="https://img.shields.io/badge/orcid-publications-003b1a?style=for-the-badge&logo=orcid&logoColor=00ff66&labelColor=000000" alt="ORCID 0009-0000-4058-4483" width="220">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.youtube.com/@FMirallesF" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-%40FMirallesF-003b1a?style=for-the-badge&logo=youtube&logoColor=00ff66&labelColor=000000" alt="YouTube @FMirallesF" width="220">
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://franmiralles.itch.io" target="_blank">
+        <img src="https://img.shields.io/badge/itch.io-franmiralles-003b1a?style=for-the-badge&logo=itchdotio&logoColor=00ff66&labelColor=000000" alt="itch.io franmiralles" width="220">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br clear="right">
