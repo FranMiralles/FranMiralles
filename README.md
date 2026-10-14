@@ -6,8 +6,8 @@
 
 ### `> cat about_me.txt`
 
-- Computer Engineer with a **Master's degree in Artificial Intelligence** from the **Universitat Politècnica de València**.
-- Researcher at the **PROS-VRAIN** group.
+- **Computer Engineer** with a **Master's degree in Artificial Intelligence** from the **Universitat Politècnica de València**.
+- **Researcher** at the **PROS-VRAIN** group.
 
 ### `> ls ~/social`
 
